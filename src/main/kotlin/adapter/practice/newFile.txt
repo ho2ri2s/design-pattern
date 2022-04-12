@@ -1,0 +1,4 @@
+#Tue Apr 12 22:31:15 JST 2022
+depth=32
+width=1024
+height=512
